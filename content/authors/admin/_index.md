@@ -18,8 +18,11 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Autonomous Learning Robots (ALR), KIT & Bosch Center for AI
+  - name: Autonomous Learning Robots (ALR), KIT
     url: https://alr.anthropomatik.kit.edu/
+organizations:
+  - name: Bosch Center for AI
+    url: https://www.bosch-ai.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include meta-learning, self-supervised learning, robotic vision.
@@ -28,7 +31,7 @@ bio: My research interests include meta-learning, self-supervised learning, robo
 interests:
   - Few-shot learning
   - Robotic vision & manipulation
-  - Scene understanding
+  - Self-supervised learning
 
 # Education to show in About widget
 education:
