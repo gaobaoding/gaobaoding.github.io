@@ -30,12 +30,12 @@ publication_types: ['paper-conference']
 publication: In *Conference on Robot Learning*
 publication_short: In *CoRL*
 
-abstract: 
+abstract: To enable meaningful robotic manipulation of objects in the real world, 6D pose estimation is one of the critical aspects. Most existing approaches have difficulty extending predictions to scenarios where novel object instances are continuously introduced, especially with heavy occlusions. In this work, we propose a few-shot pose estimation (FSPE) approach called SA6D, which uses a self-adaptive segmentation module to identify the novel target object and construct a point cloud model of the target object using only a small number of cluttered reference images. Unlike existing methods, SA6D does not require object-centric reference images or any additional object information, making it a more generalizable and scalable solution across categories. We evaluate SA6D on real-world tabletop object datasets and demonstrate that SA6D outperforms existing FSPE methods, particularly in cluttered scenes with occlusions, while requiring fewer reference images.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, we propose a few-shot pose estimation (FSPE) approach called SA6D, which uses a self-adaptive segmentation module to identify the novel target object and construct a point cloud model of the target object using only a small number of cluttered reference images.
 
-tags: []
+tags: [self-supervised, few-shot, 6D pose]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://openreview.net/pdf?id=gdkKi_F55h'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+url_project: 'https://sites.google.com/view/sa6d'
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://www.youtube.com/watch?v=Rdk1Iv-SX1c'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
