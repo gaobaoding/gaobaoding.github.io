@@ -75,7 +75,7 @@ sections:
           company: Karlsruhe Institute of Technology
           company_url: 'https://www.kit.edu/english/index.php'
           company_logo: kit
-          location: Germany
+          location: Karlsruhe, Germany
           date_start: '2020-05-15'
           date_end: '2024-05-14'
           description: |2-
