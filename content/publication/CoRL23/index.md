@@ -35,7 +35,8 @@ abstract: To enable meaningful robotic manipulation of objects in the real world
 # Summary. An optional shortened abstract.
 summary: In this work, we propose a few-shot pose estimation (FSPE) approach called SA6D, which uses a self-adaptive segmentation module to identify the novel target object and construct a point cloud model of the target object using only a small number of cluttered reference images.
 
-tags: [self-supervised, few-shot, 6D pose]
+tags: 
+- 6D pose
 
 # Display this page in the Featured widget?
 featured: true
