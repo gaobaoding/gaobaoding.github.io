@@ -67,8 +67,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - CoRL23'
+# projects:
+  # - CoRL23'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
