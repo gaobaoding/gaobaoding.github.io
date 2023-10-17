@@ -39,7 +39,7 @@ education:
     - course: PhD in Robotic Vision
       institution: Karlsruhe Institute of Technology
       year: 2020-now
-    - course: MEng in Mechanical Engineering
+    - course: MSc in Mechanical Engineering
       institution: Karlsruhe Institute of Technology
       year: 2019
     - course: BSc in Automotive Engineering
