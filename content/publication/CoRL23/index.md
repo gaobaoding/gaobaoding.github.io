@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -77,12 +77,12 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
