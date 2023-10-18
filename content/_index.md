@@ -79,7 +79,7 @@ sections:
           date_start: '2020-05-15'
           date_end: '2024-05-14'
           description: |2-
-              Doctoral advisor: Prof. Wolfram Burgard.
+              Doctoral advisor: Prof. Gerhard Neumann.
         - title: Doctoral Researcher
           company: Bosch Center for AI
           company_url: 'https://www.bosch-ai.com/'
@@ -88,6 +88,24 @@ sections:
           date_start: '2020-05-15'
           date_end: '2024-05-14'
           # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Student Research Intern
+          company: Bosch Corporate Research
+          company_url: 'https://www.bosch.de/unternehmen/bosch-in-deutschland/renningen/'
+          company_logo: bosch
+          location: Renningen, Germany
+          date_start: '2018-03-01'
+          date_end: '2019-10-14'
+          description: |2-
+              Driver gaze estimation.
+        - title: Student Research Assistant
+          company: Institute of Measurement and Control Systems (MRT)
+          company_url: 'https://www.mrt.kit.edu/english/index.php'
+          company_logo: mrt
+          location: Karlsruhe, Germany
+          date_start: '2017-11-01'
+          date_end: '2018-05-14'
+          description: |2-
+              Joint tracking for pedestrians and vehicles
     design:
       columns: '2'
   # - block: accomplishments
