@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/gaobaoding/gaobaoding.github.io'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
