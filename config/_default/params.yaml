@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Bosch Center for Artificial Intelligence'
     description: 'Ning Gao's academic research website.'
-    twitter: ''
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -48,7 +48,7 @@ footer:
     # notice: '© {year} Ning Gao. This work is licensed under {license}'
       notice: '© {year} Ning Gao.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
