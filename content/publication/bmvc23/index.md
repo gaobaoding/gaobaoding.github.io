@@ -51,7 +51,7 @@ url_poster: './content/publication/bmvc23/poster.pdf'
 # url_project: 'https://sites.google.com/view/sa6d'
 # url_slides: ''
 # url_source: ''
-# url_video: 'https://www.youtube.com/watch?v=Rdk1Iv-SX1c&feature=youtu.be'
+url_video: 'https://youtu.be/VyQe44mgfe8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
