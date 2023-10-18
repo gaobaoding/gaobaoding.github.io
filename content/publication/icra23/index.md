@@ -27,7 +27,7 @@ abstract: Grasping heterogeneous objects in real-world applications remains a ch
 # Summary. An optional shortened abstract.
 summary: We introduce a novel meta-learning grasp framework aimed at addressing the relatively unexplored challenge of grasping objects characterized by diverse physical properties, relying solely on visual input. Two innovative synthetic datasets that explicitly incorporate physical properties are introduced, making them compatible with a wide range of simulation frameworks. Our approach demonstrates substantial advantages in real-world object manipulation, despite being trained exclusively in a simulated environment.
 
-tags: [meta-learning, few-shot learning, grasping]
+tags: [meta-learning, few-shot learning, grasping, sim2real]
 
 featured: true
 
