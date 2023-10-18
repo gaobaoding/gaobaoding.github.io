@@ -100,7 +100,7 @@ sections:
         - title: Student Research Assistant
           company: Institute of Measurement and Control Systems (MRT)
           company_url: 'https://www.mrt.kit.edu/english/index.php'
-          company_logo: mrt
+          company_logo: kit
           location: Karlsruhe, Germany
           date_start: '2017-11-01'
           date_end: '2018-05-14'
