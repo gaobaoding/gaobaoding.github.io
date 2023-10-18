@@ -79,7 +79,7 @@ sections:
           date_start: '2020-05-15'
           date_end: '2024-05-14'
           description: |2-
-              Doctoral advisor: Prof. Gerhard Neumann.
+              Doctoral advisor: [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php).
         - title: Doctoral Researcher
           company: Bosch Center for AI
           company_url: 'https://www.bosch-ai.com/'
@@ -87,7 +87,7 @@ sections:
           location: Renningen, Germany
           date_start: '2020-05-15'
           date_end: '2024-05-14'
-          # description: Taught electronic engineering and researched semiconductor physics.
+          description: Meta-learning, representation learning and robotic manipulation
         - title: Student Research Intern
           company: Bosch Corporate Research
           company_url: 'https://www.bosch.de/unternehmen/bosch-in-deutschland/renningen/'
