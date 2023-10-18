@@ -11,15 +11,15 @@ authors:
   - Gerhard Neumann
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2022-05-18T00:00:00Z'
+date: '2022-06-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-18T00:00:00Z'
+publishDate: '2022-06-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Women in Computer Vision (WiCV) workshop in CVPR2022*
-publication_short: In *CVPR2022 WiCV workshop*
+publication_short: In *CVPR22' WiCV workshop*
 
 abstract: We present a novel meta-learning approach for 6D pose estimation on unknown objects. In contrast to "instance-level" and "category-level" pose estimation methods, our algorithm learns object representation in a category-agnostic way, which endows it with strong generalization capabilities across object categories. Specifically, we employ a neural process-based meta-learning approach to train an encoder to capture texture and geometry of an object in a latent representation, based on very few RGB-D images and ground-truth keypoints. The latent representation is then used by a simultaneously meta-trained decoder to predict the 6D pose of the object in new images. Furthermore, we propose a novel geometry-aware decoder for the keypoint prediction using a Graph Neural Network (GNN), which explicitly takes geometric constraints specific to each object into consideration. To evaluate our algorithm, extensive experiments are conducted on the LineMOD dataset, and on our new fully-annotated synthetic datasets generated from Multiple Categories in Multiple Scenes (MCMS). Experimental results demonstrate that our model performs well on unseen objects with very different shapes and appearances. Remarkably, our model also shows robust performance on occluded scenes though trained fully on data without occlusion. To our knowledge, this is the first work exploring **cross-category level** 6D pose estimation. 
 
