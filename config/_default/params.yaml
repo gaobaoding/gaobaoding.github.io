@@ -45,10 +45,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ning Gao. This work is licensed under {license}'
-      # notice: '© {year} Ning Gao.'
+    # notice: '© {year} Ning Gao. This work is licensed under {license}'
+      notice: '© {year} Ning Gao.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -64,8 +64,9 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
     theme_dark: dracula
+    theme_light: github-light
+    # theme_dark: dracula
   math:
     enable: false
   privacy_pack:
