@@ -47,11 +47,11 @@ footer:
   copyright:
     # notice: '© {year} Ning Gao. This work is licensed under {license}'
       notice: '© {year} Ning Gao.'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    # license:
+    #   enable: false
+    #   allow_derivatives: false
+    #   share_alike: true
+    #   allow_commercial: false
 
 # Localization
 
