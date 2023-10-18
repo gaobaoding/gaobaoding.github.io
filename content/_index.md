@@ -58,56 +58,6 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Ph.D Candidate in Computer Science
-          company: Karlsruhe Institute of Technology
-          company_url: 'https://www.kit.edu/english/index.php'
-          company_logo: kit
-          location: Karlsruhe, Germany
-          date_start: '2020-05-15'
-          date_end: '2024-05-14'
-          description: |2-
-              Doctoral advisor: [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php).
-        - title: Doctoral Researcher
-          company: Bosch Center for AI
-          company_url: 'https://www.bosch-ai.com/'
-          company_logo: bosch
-          location: Renningen, Germany
-          date_start: '2020-05-15'
-          date_end: '2024-05-14'
-          description: Meta-learning, representation learning and robotic manipulation
-        - title: Student Research Intern
-          company: Bosch Corporate Research
-          company_url: 'https://www.bosch.de/unternehmen/bosch-in-deutschland/renningen/'
-          company_logo: bosch
-          location: Renningen, Germany
-          date_start: '2018-03-01'
-          date_end: '2019-10-14'
-          description: |2-
-              Driver gaze estimation.
-        - title: Student Research Assistant
-          company: Institute of Measurement and Control Systems (MRT)
-          company_url: 'https://www.mrt.kit.edu/english/index.php'
-          company_logo: kit
-          location: Karlsruhe, Germany
-          date_start: '2017-11-01'
-          date_end: '2018-05-14'
-          description: |2-
-              Joint tracking for pedestrians and vehicles
-    design:
-      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -220,6 +170,56 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D Candidate in Computer Science
+          company: Karlsruhe Institute of Technology
+          company_url: 'https://www.kit.edu/english/index.php'
+          company_logo: kit
+          location: Karlsruhe, Germany
+          date_start: '2020-05-15'
+          date_end: '2024-05-14'
+          description: |2-
+              Doctoral advisor: [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php).
+        - title: Doctoral Researcher
+          company: Bosch Center for AI
+          company_url: 'https://www.bosch-ai.com/'
+          company_logo: bosch
+          location: Renningen, Germany
+          date_start: '2020-05-15'
+          date_end: '2024-05-14'
+          description: Meta-learning, representation learning and robotic manipulation
+        - title: Student Research Intern
+          company: Bosch Corporate Research
+          company_url: 'https://www.bosch.de/unternehmen/bosch-in-deutschland/renningen/'
+          company_logo: bosch
+          location: Renningen, Germany
+          date_start: '2018-03-01'
+          date_end: '2019-10-14'
+          description: |2-
+              Driver gaze estimation.
+        - title: Student Research Assistant
+          company: Institute of Measurement and Control Systems (MRT)
+          company_url: 'https://www.mrt.kit.edu/english/index.php'
+          company_logo: kit
+          location: Karlsruhe, Germany
+          date_start: '2017-11-01'
+          date_end: '2018-05-14'
+          description: |2-
+              Joint tracking for pedestrians and vehicles
+    design:
+      columns: '2'
   - block: collection
     content:
       title: Recent Publications
