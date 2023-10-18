@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Bosch Center for Artificial Intelligence'
+    description: 'Ning Gao's academic research website.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,9 +45,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ning Gao. This work is licensed under {license}'
+    # notice: '© {year} Ning Gao. This work is licensed under {license}'
+      notice: '© {year} Ning Gao.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -63,14 +64,14 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
     theme_dark: dracula
+    theme_light: github-light
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/gaobaoding/gaobaoding.github.io'
     content_dir: content
     branch: main
   avatar:
