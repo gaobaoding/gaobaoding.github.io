@@ -48,7 +48,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2206.07162.pdf'
 # url_code: ''
 # url_dataset: ''
-url_poster: './content/publication/cvpr22-workshop/poster.pdf'
+url_poster: 'publication/cvpr22-workshop/poster.pdf'
 # url_project: 'https://sites.google.com/view/sa6d'
 # url_slides: ''
 # url_source: ''

@@ -37,7 +37,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2205.11110.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
-url_poster: './content/publication/icra23/poster.pdf'
+url_poster: 'publication/icra23/poster.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'

@@ -48,7 +48,7 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=gdkKi_F55h'
 # url_code: ''
 # url_dataset: ''
-url_poster: '/publication/corl/poster.pdf'
+url_poster: 'publication/corl/poster.pdf'
 url_project: 'https://sites.google.com/view/sa6d'
 # url_slides: ''
 # url_source: ''
