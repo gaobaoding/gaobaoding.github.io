@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2308.11369.pdf'
 # url_code: ''
 # url_dataset: ''
-url_poster: './content/publication/bmvc23/poster.pdf'
+url_poster: 'content/publication/bmvc23/poster.pdf'
 # url_project: 'https://sites.google.com/view/sa6d'
 # url_slides: ''
 # url_source: ''
