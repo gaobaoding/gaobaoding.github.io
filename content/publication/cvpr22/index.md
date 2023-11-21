@@ -49,7 +49,7 @@ featured: true
 url_pdf: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_What_Matters_for_Meta-Learning_Vision_Regression_Tasks_CVPR_2022_paper.pdf'
 url_code: 'https://github.com/boschresearch/what-matters-for-meta-learning'
 url_dataset: 'https://github.com/boschresearch/what-matters-for-meta-learning/tree/main/data'
-url_poster: './content/publication/cvpr22/poster.pdf'
+url_poster: 'content/publication/cvpr22/poster.pdf'
 # url_project: 'https://sites.google.com/view/sa6d'
 # url_slides: ''
 # url_source: ''
