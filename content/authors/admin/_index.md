@@ -84,6 +84,6 @@ email: 'elvisgao@outlook.com'
 highlight_name: true
 ---
 
-Ning Gao is a fourth-year PhD student at Autonomous Learning Robots (ALR) at KIT supervised by [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php) and doctoral researcher at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen, Germany. His research interests lie in the field of
+Ning Gao is a fourth-year PhD student at Autonomous Learning Robots (ALR) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) supervised by [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php) and doctoral researcher at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen, Germany. His research interests lie in the field of
 meta-learning, self-supervised learning and representation learning for robotic perception & manipulation.
 {style="text-align: justify;"}
