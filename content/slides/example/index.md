@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
@@ -61,10 +61,6 @@ if porridge == "blueberry":
 In-line math: $x + y = z$
 
 Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
 
 ---
 
@@ -166,4 +162,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://wowchemy.com/docs/content/slides/) -->
+[Documentation](https://wowchemy.com/docs/content/slides/)
