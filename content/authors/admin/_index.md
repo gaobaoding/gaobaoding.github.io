@@ -29,9 +29,10 @@ bio: My research interests include meta-learning, self-supervised learning, robo
 
 # Interests to show in About widget
 interests:
-  - Few-shot learning
+  - Few-shot learning, meta-learning, self-supervised learning
   - Robotic vision & manipulation
-  - Self-supervised learning
+  - 3D Vision
+  - Scene Understanding
 
 # Education to show in About widget
 education:
@@ -77,7 +78,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'elvisgao@outlook.com'
+email: 'ning.gao@de.bosch.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
