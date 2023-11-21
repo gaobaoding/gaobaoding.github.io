@@ -254,7 +254,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: ning.gao@de.bosch.com
+      email: elvisgao@outlook.com
     design:
       columns: '2'
 ---
