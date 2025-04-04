@@ -187,7 +187,7 @@ sections:
           company: Google LLC
           company_url: 'https://about.google/'
           company_logo: google
-          location: 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+          location: Mountain View, CA 94043, USA
           date_start: '2025-03-27'
           date_end: ''
         - title: Ph.D Candidate in Computer Science
