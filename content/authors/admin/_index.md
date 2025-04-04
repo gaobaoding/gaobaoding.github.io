@@ -14,21 +14,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Autonomous Learning Robots (ALR), KIT
-    url: https://alr.anthropomatik.kit.edu/
-organizations:
-  - name: Bosch Center for AI
-    url: https://www.bosch-ai.com/
+  - name: Google LLC
+    url: https://about.google/
+# organizations:
+#   - name: Autonomous Learning Robots (ALR), KIT
+#     url: https://alr.anthropomatik.kit.edu/
+# organizations:
+#   - name: Bosch Center for AI
+#     url: https://www.bosch-ai.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include meta-learning, self-supervised learning, robotic vision.
+bio: My research interests include large language model (LLM), meta-learning, self-supervised learning, robotic vision.
 
 # Interests to show in About widget
 interests:
+  - Large Language Model
   - Few-shot learning, meta-learning, self-supervised learning
   - Robotic vision & manipulation
   - 3D Vision
@@ -83,7 +87,10 @@ email: 'elvisgao@outlook.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Recently, Ning Gao joined Google as a Machine Learning Engineer. Before that, Ning obtained his PhD degree in Autonomous Learning Robots (ALR) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) supervised by [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php). He was a doctoral researcher at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen, Germany. His research interests lie in the field of large language model, meta‑learning and self‑supervised learning towards efficient and generalizable representation on novel tasks across various robotic applications, e.g. natural language processing, robotic
+grasping, 6D object pose estimation, object segmentation and scene understanding.
 
-Ning Gao is a fourth-year PhD student at Autonomous Learning Robots (ALR) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) supervised by [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php) and doctoral researcher at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen, Germany. His research interests lie in the field of
-meta-learning, self-supervised learning and representation learning for robotic perception & manipulation.
+# Ning Gao is a fourth-year PhD student at Autonomous Learning Robots (ALR) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) (KIT) supervised by [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php) and doctoral researcher at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen, Germany. His research interests lie in the field of
+# meta-learning, self-supervised learning and representation learning for robotic perception & manipulation.
+
 {style="text-align: justify;"}
