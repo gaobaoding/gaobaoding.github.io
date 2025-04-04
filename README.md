@@ -1,1 +1,1 @@
-Please contact **Ning Gao** (elvisgao@outlook.com) if the website is not available.
+Please contact **Ning Gao** (ninggao29@gmail.com) if the website is not available.
