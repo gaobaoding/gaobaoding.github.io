@@ -196,7 +196,7 @@ sections:
           company_logo: kit
           location: Karlsruhe, Germany
           date_start: '2020-05-15'
-          date_end: '2024-05-14'
+          date_end: '2025-02-14'
           description: |2-
               Doctoral advisor: [Prof. Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php).
         - title: Doctoral Researcher
